@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 
+I am a CSE major from India, navigating the tech world. I am passionate about design as well!
+
+(Currently trying to survive college and try my hand at everything)
 
 <!--
 **devansheek/devansheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
