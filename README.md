@@ -1,8 +1,8 @@
-### Hi there 
-I am a CSE major from India, navigating the tech world. I am passionate about design as well!
+### I am a CSE major from India, navigating the tech world. I am passionate about design as well!
 
-(Currently trying to survive college and try my hand at everything)
+- :seedling: Currently trying to survive college and try my hand at everything :)
 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devanshee-kansara/)
 <!--
 **devansheek/devansheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
