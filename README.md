@@ -2,7 +2,7 @@
 
 - :seedling: Currently trying to survive college and try my hand at everything :)
 
-- :mailbox: How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devanshee-kansara/)
+- :mailbox: How to reach me: devanshee.k1@ahduni.edu.in
 <!--
 **devansheek/devansheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
