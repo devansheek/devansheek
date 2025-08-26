@@ -1,7 +1,5 @@
-<h1 align="center">Hey, I'm Devanshee!</h1>
+<h2 align="center">Hey, I'm Devanshee!</h1>
 <h3 align="center">Senior at Ahmedabad University pursuing CSE major + design minor</h3>
-<h3 align="center">InventX Winner '25 | Google Upskilling Launchpad '25 | AWS AI/ML Scholar '24 | Google TalentSprint WE Scholar '23 | 2x University Merit Scholarship Awardee</h3>
-
 
 - :seedling: Currently working on a social network research project!
 
